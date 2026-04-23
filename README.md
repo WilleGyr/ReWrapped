@@ -7,7 +7,7 @@
 ![No build step](https://img.shields.io/badge/no_build_step-static-lightgrey?style=flat-square)
 ![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white)
 
-A personal Spotify listening stats dashboard — your own Wrapped, on your own terms.
+A personal Spotify listening stats dashboard.
 
 Pulls data from Google Sheets, enriches it with the Spotify API (album art, artist images, track durations), and renders a fully animated, minimalistic web dashboard.
 
